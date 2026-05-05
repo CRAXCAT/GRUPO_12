@@ -1,6 +1,6 @@
 # 🎓 Sistema de Control de Asistencia Docente mediante Reconocimiento Facial
 ### GRUPO 12 — Arquitectura de Software
-
+![Descripción de la imagen](https://raw.githubusercontent.com/CRAXCAT/GRUPO_12/refs/heads/main/fotos/Benjamin/Benjamin_1.jpg)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv)
 ![DeepFace](https://img.shields.io/badge/DeepFace-Facenet512-orange)
