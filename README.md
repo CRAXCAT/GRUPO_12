@@ -115,8 +115,8 @@ VOTOS_NECESARIOS = 2                # Mínimo de fotos que deben coincidir (de 5
 | Código | Requerimiento | Estado |
 |--------|--------------|--------|
 | RF-001 | Reconocimiento facial con DeepFace + Facenet512 | ✅ Completo |
-| RF-002 | Clasificación automática A TIEMPO / TARDE / MUY TARDE | ✅ Completo |
-| RF-003 | Registro en archivo CSV con fecha-hora AM/PM | ✅ Completo |
+| RF-002 | Clasificación automática A TIEMPO / TARDE / MUY TARDE | 🔄 Pendiente |
+| RF-003 | Registro en archivo CSV con fecha-hora AM/PM | 🔄 Pendiente |
 | RF-004 | Enrolamiento facial con 5 fotos por docente | ✅ Completo |
 | RF-005 | Validación previa de rostro con Haar Cascade | ✅ Completo |
 | RF-006 | Sistema de votación anti-falsos positivos | 🔄 Pendiente |
