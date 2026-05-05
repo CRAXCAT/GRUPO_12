@@ -118,13 +118,13 @@ VOTOS_NECESARIOS = 2                # Mínimo de fotos que deben coincidir (de 5
 | RF-003 | Registro en archivo CSV con fecha-hora AM/PM | ✅ Completo |
 | RF-004 | Enrolamiento facial con 5 fotos por docente | ✅ Completo |
 | RF-005 | Validación previa de rostro con Haar Cascade | ✅ Completo |
-| RF-006 | Sistema de votación anti-falsos positivos | ✅ Completo |
-| RF-007 | Retroalimentación visual en tiempo real | ✅ Completo |
-| RF-008 | Estructura de carpetas por docente | ✅ Completo |
-| RF-009 | Stack Python sin GPU requerida | ✅ Completo |
-| RF-010 | Prevención de registros duplicados diarios | ✅ Completo |
-| RF-011 | Parámetros configurables centralizados | ✅ Completo |
-| RF-012 | Módulos independientes registrar / verificar | ✅ Completo |
+| RF-006 | Sistema de votación anti-falsos positivos | 🔄 Pendiente |
+| RF-007 | Retroalimentación visual en tiempo real | 🔄 Pendiente |
+| RF-008 | Estructura de carpetas por docente | 🔄 Pendiente |
+| RF-009 | Stack Python sin GPU requerida | 🔄 Pendiente |
+| RF-010 | Prevención de registros duplicados diarios | 🔄 Pendiente |
+| RF-011 | Parámetros configurables centralizados | 🔄 Pendiente |
+| RF-012 | Módulos independientes registrar / verificar | 🔄 Pendiente |
 
 ---
 
